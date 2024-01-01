@@ -1,1 +1,4 @@
 # Health_And_Working_Hours
+Historically, it's known that long work hours cause stress, and stress decreases health by introducing symptoms such as depression, anxiety, and poor sleep. (Koenig, 2011; Lockwood, 2003). As such, we want to study if annual hours worked changes life expectancy. Since we will need to split our data into groups, our location parameter is the difference in average life expectancy and our scale parameter is the standard error of the difference. The reproducable dataset can be read from the web and includes information about 44 cities across all continents except Antarctica.
+
+Note: This group project was contributed by Zhong Tan, Wanqing Hu, Khushi Sharma and Shaleen Gorakatar. The original repository was set as private.
